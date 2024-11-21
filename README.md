@@ -45,4 +45,4 @@ The AI opponent uses a Minimax algorithm:
 
 ## **Live Demo**
 
-[here](https://minorprojectchessai.netlify.app/)
+- There is no need for anyone to insall or download this file or code you can just try the Live demo [here](https://minorprojectchessai.netlify.app/)
