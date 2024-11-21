@@ -13,34 +13,36 @@ A simple, lightweight chess game where you can play against an AI-powered oppone
 
 ---
 
-##Technologies Used
--JavaScript (97%): Implements the chess logic, AI, and interactivity.
--CSS (1.3%): Styles the chessboard and pieces.
--HTML (1%): Provides the basic structure of the game.
+## **Technologies Used**
+- JavaScript (97%): Implements the chess logic, AI, and interactivity.
+- CSS (1.3%): Styles the chessboard and pieces.
+- HTML (1%): Provides the basic structure of the game.
 
 ---
 
-##How the AI Works
+## **How the AI Works**
 The AI opponent uses a Minimax algorithm:
 
--Evaluates all potential moves for the current position.
--Simulates the player's responses to each move.
--Selects the move that maximizes its advantage while minimizing losses.
+- Evaluates all potential moves for the current position.
+- Simulates the player's responses to each move.
+- Selects the move that maximizes its advantage while minimizing losses.
 
 ---
 
-##Screenshot
+## **Screenshot**
 
 ![image](https://github.com/user-attachments/assets/39c404cc-0a86-44b7-a206-d3fd87ec0ff6)
 
 ---
 
-##Future Enhancements
--Add multiple difficulty levels for the AI.
--Introduce multiplayer mode for two players.
--Add animations and sound effects to enhance gameplay.
--Optimize AI performance using advanced techniques like Alpha-Beta Pruning.
+## **Future Enhancements**
+- Add multiple difficulty levels for the AI.
+- Introduce multiplayer mode for two players.
+- Add animations and sound effects to enhance gameplay.
+- Optimize AI performance using advanced techniques like Alpha-Beta Pruning.
 
 ---
 
-##[Live Demo](https://minorprojectchessai.netlify.app/)
+## **Live Demo**
+
+[here](https://minorprojectchessai.netlify.app/)
