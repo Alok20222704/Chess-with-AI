@@ -1,6 +1,6 @@
-# Chess-with-AI
+# CHESS WITH MACHINE LEARNING
 
-# **AI Chess Game**
+# **ML Chess Game**
 
 A simple, lightweight chess game where you can play against an AI-powered opponent. This project is built using JavaScript , CSS, and HTML. No installation is required—just open it in a browser and start playing!
 
